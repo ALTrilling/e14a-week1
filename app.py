@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return 'Hello Worltestingd'
+    return 'Hello Worlteaaastingd'
 
 @app.route('/timezones')
 def timezones():
